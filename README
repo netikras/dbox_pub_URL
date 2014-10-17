@@ -1,0 +1,3 @@
+A simple project allowing to get a public URL of any file (NOT folder) in your system if you're using Dropbox with defautl paths. This script can be added to right-click-menu in GUI.
+
+What this script does is simply copy file to 'Public' directory of Dropbox and provide user with the URL. Works in GUI only. Requires Zenity.
